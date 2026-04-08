@@ -1,14 +1,6 @@
-# ============================================================
-# app.py — Streamlit Fraud Detection App
-# ============================================================
-# Run this file from your terminal with:  streamlit run app.py
-#
-# Make sure fraud_model.pkl and model_columns.pkl are in the
-# same folder as this file (they get created in Cell 29 of the notebook).
-#
-# Install requirements first:
-#   pip install streamlit joblib scikit-learn xgboost pandas numpy
-# ============================================================
+# Streamlit Fraud Detection App
+
+# importing libraries
 
 import streamlit as st
 import joblib
